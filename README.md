@@ -1,6 +1,7 @@
 # Bug_Rewards
 
-images/brokenlinkhijacking.png
+https://github.com/KishoreDasarathan/Bug_Rewards/blob/main/images/brokenlinkhijacking.png
+
 Description:
 Broken Link Hijacking (BLH) or Link Takeover, 
 whatever you called it, the concept is very simple. 
