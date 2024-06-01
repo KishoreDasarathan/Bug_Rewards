@@ -1,5 +1,6 @@
 # Bug_Rewards
 
+images/brokenlinkhijacking.png
 Description:
 Broken Link Hijacking (BLH) or Link Takeover, 
 whatever you called it, the concept is very simple. 
