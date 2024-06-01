@@ -1,4 +1,5 @@
 # Bug_Rewards
+### 75 Euro Received ### 
 
 https://github.com/KishoreDasarathan/Bug_Rewards/blob/main/images/brokenlinkhijacking.png
 
@@ -13,6 +14,9 @@ Just the difference is in subdomain takeover you have
 to takeover the subdomain and in broken link hijacking 
 you have to take over the link.
 
+### 50 Euro Received ###
+
+https://github.com/KishoreDasarathan/Bug_Rewards/blob/main/images/noratelimit.png
 
 Description: 
 This vulnerability in the "change email" feature allows 
